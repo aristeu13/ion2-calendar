@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { ModalController } from '@ionic/angular';
+import { ModalController } from 'ionic-angular';
 import { OverlayEventDetail } from '@ionic/core';
 
 import { ModalOptions, CalendarModalOptions } from './calendar.model';
