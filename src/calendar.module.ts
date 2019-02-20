@@ -1,7 +1,7 @@
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { IonicModule, ModalController } from '@ionic/angular';
+import { IonicModule, ModalController } from 'ionic-angular';
 import { CalendarController } from './calendar.controller';
 import { CalendarService } from './services/calendar.service';
 import { CALENDAR_COMPONENTS } from './components/index';
